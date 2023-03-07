@@ -1,13 +1,13 @@
 {
-  "timestamp": "2023-03-06T01:10:07.785Z",
+  "timestamp": "2023-03-07T01:14:09.585Z",
   "version": "nightly",
   "sha256sums": {
-    "valetudo-armv7": "c7229cb6a60f9c1c2297cc0ea36fc005bd921e79bd6a1b123ea0a1062345d66c",
-    "valetudo-armv7-lowmem": "64a59910275b8a9114779bd0f8d4e00e8159891fac1f999d480350af0476261a",
-    "valetudo-aarch64": "a409765cfc0d475783998b2fba08ce8366f62116fe0ebc649cac0f91ece10ada",
-    "valetudo-armv7.upx": "0e9a39623940c47968d38a96086c678f79314c7f261cf68ce523b0bd35283645",
-    "valetudo-armv7-lowmem.upx": "ebd2e0271c1d53ce3d647dceadef0eb9c91ffa855e3315c8bd2146ac0eda86e7",
-    "valetudo-aarch64.upx": "c69fb27e70962ec23d0f7c09da0eaef1ffbf581cb992049ffa10a1d71a4a9243"
+    "valetudo-armv7": "cbfb7e869a199900e15666ed251325ec1e2cf4964cc6d40761c0d484f900765a",
+    "valetudo-armv7-lowmem": "296ce620c9d62855cb6d21397337c1062d9f95d3c758f4988a1cbb80e853c8ed",
+    "valetudo-aarch64": "49efbc509b4f74f78c0672a01e5f38580c2c625391ebb641a49784f3dcae6ff3",
+    "valetudo-armv7.upx": "5adf24e6814d8770c620a69d84936cfe81446992744fcf392ebe76614b93d1d7",
+    "valetudo-armv7-lowmem.upx": "7aa3ba80771db8d10d43a2ec854ecdfc2edc0775b9bd1232451ef6037ff456f1",
+    "valetudo-aarch64.upx": "5047774b202d3f4eea6b19d3b906595ee5f62c13aa84be6c573d8e7652511a1a"
   },
-  "changelog": "## Valetudo nightly (2023-03-06T01:10:07.286Z)\n"
+  "changelog": "## Valetudo nightly (2023-03-07T01:14:09.113Z)\n\n### Fixes\n\n- issue #59 [`46cea28`](https://github.com/congatudo/Congatudo/commit/46cea28f22356ebfc6a4ddf6cbfb177e95e64efd)\n"
 }
