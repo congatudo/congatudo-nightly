@@ -1,4 +1,8 @@
-## Valetudo nightly (2023-03-16T01:11:14.136Z)
+## Valetudo nightly (2023-03-17T01:08:50.414Z)
+
+### Features
+
+- embebed false as default [`f98f378`](https://github.com/congatudo/Congatudo/commit/f98f37883af0d641b981c4bd0f72aaa16cc7cebb)
 
 ### Fixes
 
