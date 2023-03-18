@@ -1,13 +1,13 @@
 {
-  "timestamp": "2023-03-17T01:08:51.056Z",
+  "timestamp": "2023-03-18T01:07:36.230Z",
   "version": "nightly",
   "sha256sums": {
-    "valetudo-armv7": "a09bf1dc4771eb312ffd1b58affda832bab9a40b0c7d9d683e6ebd1b44ad2fca",
-    "valetudo-armv7-lowmem": "402165e37df55233929841e056a01bce78794d706bf3e1c7a0ac8f29aef3b0c6",
-    "valetudo-aarch64": "524e236da599c39f32b9e6ea273fcbafa87a9b0c81825bc9911b7f50fd963d61",
-    "valetudo-armv7.upx": "22aa97c0953e8fee10321f29cec17944be99a2b2c610b014aff367279a2a4ede",
-    "valetudo-armv7-lowmem.upx": "1c5d1cbb72f79af518ab3fbf005adbbc3c2cfea6708e1cbbbb9efb01d9d1ce4e",
-    "valetudo-aarch64.upx": "0847f6aca06a8fa88ab6d7898b4a7014e87af35b26d9940f979d04462841a476"
+    "valetudo-armv7": "025ea6ca2b6376807fdbacaf66e6349aeebb259f129b4f1ea70910dcca738b07",
+    "valetudo-armv7-lowmem": "b6409bd827591d9f67a9305fdbbde1b99ae8361cfb55e3e84f903b83e065c373",
+    "valetudo-aarch64": "6607c76115cbd9e0a1e16e376cc111df9c2a60d8da5f4eb1481eaf9262d4844a",
+    "valetudo-armv7.upx": "ae81796df4aaf68a510825cbba2e0ece8f6904d466b9154cf5dea215b6800df0",
+    "valetudo-armv7-lowmem.upx": "47acdeeb0b182e330ae319414df6bd3782017a2016b230fc7e10ec346d070ab8",
+    "valetudo-aarch64.upx": "add02bc9b081f192694fc1d4edd0d0930279346e8b6ea18ceb8e6c17233a8bbb"
   },
-  "changelog": "## Valetudo nightly (2023-03-17T01:08:50.414Z)\n\n### Features\n\n- embebed false as default [`f98f378`](https://github.com/congatudo/Congatudo/commit/f98f37883af0d641b981c4bd0f72aaa16cc7cebb)\n\n### Fixes\n\n- issue #59 [`46cea28`](https://github.com/congatudo/Congatudo/commit/46cea28f22356ebfc6a4ddf6cbfb177e95e64efd)\n"
+  "changelog": "## Valetudo nightly (2023-03-18T01:07:35.615Z)\n\n### Features\n\n- update readme [`f684e48`](https://github.com/congatudo/Congatudo/commit/f684e4804664fde1c16cd2af2c2b2dfbf6d57b95)\n- embebed false as default [`f98f378`](https://github.com/congatudo/Congatudo/commit/f98f37883af0d641b981c4bd0f72aaa16cc7cebb)\n\n### Fixes\n\n- issue #59 [`46cea28`](https://github.com/congatudo/Congatudo/commit/46cea28f22356ebfc6a4ddf6cbfb177e95e64efd)\n"
 }
