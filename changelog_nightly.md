@@ -1,4 +1,4 @@
-## Valetudo nightly (2023-03-18T01:07:35.615Z)
+## Valetudo nightly (2023-03-19T01:14:56.424Z)
 
 ### Features
 
@@ -7,4 +7,5 @@
 
 ### Fixes
 
+- image link [`9f202bf`](https://github.com/congatudo/Congatudo/commit/9f202bfd4899d6af77f460f10c67690213097904)
 - issue #59 [`46cea28`](https://github.com/congatudo/Congatudo/commit/46cea28f22356ebfc6a4ddf6cbfb177e95e64efd)

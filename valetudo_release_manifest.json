@@ -1,13 +1,13 @@
 {
-  "timestamp": "2023-03-18T01:07:36.230Z",
+  "timestamp": "2023-03-19T01:14:57.091Z",
   "version": "nightly",
   "sha256sums": {
-    "valetudo-armv7": "025ea6ca2b6376807fdbacaf66e6349aeebb259f129b4f1ea70910dcca738b07",
-    "valetudo-armv7-lowmem": "b6409bd827591d9f67a9305fdbbde1b99ae8361cfb55e3e84f903b83e065c373",
-    "valetudo-aarch64": "6607c76115cbd9e0a1e16e376cc111df9c2a60d8da5f4eb1481eaf9262d4844a",
-    "valetudo-armv7.upx": "ae81796df4aaf68a510825cbba2e0ece8f6904d466b9154cf5dea215b6800df0",
-    "valetudo-armv7-lowmem.upx": "47acdeeb0b182e330ae319414df6bd3782017a2016b230fc7e10ec346d070ab8",
-    "valetudo-aarch64.upx": "add02bc9b081f192694fc1d4edd0d0930279346e8b6ea18ceb8e6c17233a8bbb"
+    "valetudo-armv7": "31828dd0c0505fe690f5f2a87b1a9fc3bc981b6f44f7201acdf5233f1d49643d",
+    "valetudo-armv7-lowmem": "6c2d73fd419a60cfb330610ea1c0cac6d6925968148ad974205c17d657790fc1",
+    "valetudo-aarch64": "d1cae04d9ed3c69fb89f264265d4aa4a5d5bd0387c21fbf22f15cc1c55dde3de",
+    "valetudo-armv7.upx": "9e138cb0fcbc9446036f0329b40236060d866fc75bd673ae81ea456dbc5c28fc",
+    "valetudo-armv7-lowmem.upx": "dfd1d35a90c039b3d5a72350dca6db6ffeaeb02f3aa46b29166bc275160c3db0",
+    "valetudo-aarch64.upx": "93d4409d1772875fb28672a3668efe6943f04f8185e374ee21a1de05b599580d"
   },
-  "changelog": "## Valetudo nightly (2023-03-18T01:07:35.615Z)\n\n### Features\n\n- update readme [`f684e48`](https://github.com/congatudo/Congatudo/commit/f684e4804664fde1c16cd2af2c2b2dfbf6d57b95)\n- embebed false as default [`f98f378`](https://github.com/congatudo/Congatudo/commit/f98f37883af0d641b981c4bd0f72aaa16cc7cebb)\n\n### Fixes\n\n- issue #59 [`46cea28`](https://github.com/congatudo/Congatudo/commit/46cea28f22356ebfc6a4ddf6cbfb177e95e64efd)\n"
+  "changelog": "## Valetudo nightly (2023-03-19T01:14:56.424Z)\n\n### Features\n\n- update readme [`f684e48`](https://github.com/congatudo/Congatudo/commit/f684e4804664fde1c16cd2af2c2b2dfbf6d57b95)\n- embebed false as default [`f98f378`](https://github.com/congatudo/Congatudo/commit/f98f37883af0d641b981c4bd0f72aaa16cc7cebb)\n\n### Fixes\n\n- image link [`9f202bf`](https://github.com/congatudo/Congatudo/commit/9f202bfd4899d6af77f460f10c67690213097904)\n- issue #59 [`46cea28`](https://github.com/congatudo/Congatudo/commit/46cea28f22356ebfc6a4ddf6cbfb177e95e64efd)\n"
 }
