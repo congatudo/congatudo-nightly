@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-03-28T01:07:58.334Z",
+  "timestamp": "2023-03-29T01:10:40.526Z",
   "version": "nightly",
   "sha256sums": {
     "valetudo-armv7": "31828dd0c0505fe690f5f2a87b1a9fc3bc981b6f44f7201acdf5233f1d49643d",
@@ -9,5 +9,5 @@
     "valetudo-armv7-lowmem.upx": "dfd1d35a90c039b3d5a72350dca6db6ffeaeb02f3aa46b29166bc275160c3db0",
     "valetudo-aarch64.upx": "93d4409d1772875fb28672a3668efe6943f04f8185e374ee21a1de05b599580d"
   },
-  "changelog": "## Valetudo nightly (2023-03-28T01:07:57.737Z)\n\n### Features\n\n- update readme [`f684e48`](https://github.com/congatudo/Congatudo/commit/f684e4804664fde1c16cd2af2c2b2dfbf6d57b95)\n- embebed false as default [`f98f378`](https://github.com/congatudo/Congatudo/commit/f98f37883af0d641b981c4bd0f72aaa16cc7cebb)\n\n### Fixes\n\n- image link [`9f202bf`](https://github.com/congatudo/Congatudo/commit/9f202bfd4899d6af77f460f10c67690213097904)\n- issue #59 [`46cea28`](https://github.com/congatudo/Congatudo/commit/46cea28f22356ebfc6a4ddf6cbfb177e95e64efd)\n"
+  "changelog": "## Valetudo nightly (2023-03-29T01:10:40.015Z)\n\n### Features\n\n- update readme [`f684e48`](https://github.com/congatudo/Congatudo/commit/f684e4804664fde1c16cd2af2c2b2dfbf6d57b95)\n- embebed false as default [`f98f378`](https://github.com/congatudo/Congatudo/commit/f98f37883af0d641b981c4bd0f72aaa16cc7cebb)\n\n### Fixes\n\n- image link [`9f202bf`](https://github.com/congatudo/Congatudo/commit/9f202bfd4899d6af77f460f10c67690213097904)\n- issue #59 [`46cea28`](https://github.com/congatudo/Congatudo/commit/46cea28f22356ebfc6a4ddf6cbfb177e95e64efd)\n"
 }
