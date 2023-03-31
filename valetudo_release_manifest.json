@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-03-30T01:06:10.542Z",
+  "timestamp": "2023-03-31T01:06:59.691Z",
   "version": "nightly",
   "sha256sums": {
     "valetudo-armv7": "7d6b8104c69259b47653a260bdb8cfa82c40753604c782982998033038e180a8",
@@ -9,5 +9,5 @@
     "valetudo-armv7-lowmem.upx": "cbc6e8b19a5de26c068cca0e12074ce7a277d4a8180937837cfb4bf38a090605",
     "valetudo-aarch64.upx": "31d7af08866f0d715a82b3fd15d32931f3385a2b6d0b2f574b650abf5cd4fabd"
   },
-  "changelog": "## Valetudo nightly (2023-03-30T01:06:10.044Z)\n\n### Features\n\n- add embebed error to faq [`66978f4`](https://github.com/congatudo/Congatudo/commit/66978f4cbf4ed7fba0d8989dd1d819881e3f8904)\n- docker-compose added [`8d3349d`](https://github.com/congatudo/Congatudo/commit/8d3349d5c264b149daa117575b10c02066ee5f67)\n- add config file name [`1663e60`](https://github.com/congatudo/Congatudo/commit/1663e606600e1af6391f0cbc2c0e28dae4a931eb)\n- update readme [`f684e48`](https://github.com/congatudo/Congatudo/commit/f684e4804664fde1c16cd2af2c2b2dfbf6d57b95)\n- embebed false as default [`f98f378`](https://github.com/congatudo/Congatudo/commit/f98f37883af0d641b981c4bd0f72aaa16cc7cebb)\n\n### Fixes\n\n- image link [`9f202bf`](https://github.com/congatudo/Congatudo/commit/9f202bfd4899d6af77f460f10c67690213097904)\n- issue #59 [`46cea28`](https://github.com/congatudo/Congatudo/commit/46cea28f22356ebfc6a4ddf6cbfb177e95e64efd)\n"
+  "changelog": "## Valetudo nightly (2023-03-31T01:06:59.067Z)\n\n### Features\n\n- add embebed error to faq [`66978f4`](https://github.com/congatudo/Congatudo/commit/66978f4cbf4ed7fba0d8989dd1d819881e3f8904)\n- docker-compose added [`8d3349d`](https://github.com/congatudo/Congatudo/commit/8d3349d5c264b149daa117575b10c02066ee5f67)\n- add config file name [`1663e60`](https://github.com/congatudo/Congatudo/commit/1663e606600e1af6391f0cbc2c0e28dae4a931eb)\n- update readme [`f684e48`](https://github.com/congatudo/Congatudo/commit/f684e4804664fde1c16cd2af2c2b2dfbf6d57b95)\n- embebed false as default [`f98f378`](https://github.com/congatudo/Congatudo/commit/f98f37883af0d641b981c4bd0f72aaa16cc7cebb)\n\n### Fixes\n\n- image link [`9f202bf`](https://github.com/congatudo/Congatudo/commit/9f202bfd4899d6af77f460f10c67690213097904)\n- issue #59 [`46cea28`](https://github.com/congatudo/Congatudo/commit/46cea28f22356ebfc6a4ddf6cbfb177e95e64efd)\n"
 }
