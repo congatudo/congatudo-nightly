@@ -1,13 +1,13 @@
 {
-  "timestamp": "2023-04-23T01:07:44.555Z",
+  "timestamp": "2023-04-24T01:04:49.743Z",
   "version": "nightly",
   "sha256sums": {
-    "valetudo-armv7": "7d6b8104c69259b47653a260bdb8cfa82c40753604c782982998033038e180a8",
-    "valetudo-armv7-lowmem": "b0152d3872990429aa684d1d21ad4465a3454f99b52c78a7a06c811df51225da",
-    "valetudo-aarch64": "c972df882c1315556765741d312c449e8993766d3fb4f99383d34b9d9b45189b",
-    "valetudo-armv7.upx": "86c22b91ecb1a9b897ca9c0a8c4c9496d9e4c2c2edce56f2b2651ea5121bf662",
-    "valetudo-armv7-lowmem.upx": "cbc6e8b19a5de26c068cca0e12074ce7a277d4a8180937837cfb4bf38a090605",
-    "valetudo-aarch64.upx": "31d7af08866f0d715a82b3fd15d32931f3385a2b6d0b2f574b650abf5cd4fabd"
+    "valetudo-armv7": "8d2a37dd0a8fd7a52eb800f46881c702d05f7e3837733f016733edf05641ef83",
+    "valetudo-armv7-lowmem": "8d31ee4323c7dec200db1a9bb08d5598731cfd483ba8a344023772b22832a879",
+    "valetudo-aarch64": "a1af6aae89c89f0d1f11ed57429a5fb006b1e3475a63c9cf154312be16a2db90",
+    "valetudo-armv7.upx": "14d150f504383222765fdbdc860745dd4cf0628da234b5152a9274bd540d1ff0",
+    "valetudo-armv7-lowmem.upx": "be694a458163aaef25ddfde48108c54c1c704e76b680e0aa9cb7911ff2419919",
+    "valetudo-aarch64.upx": "a27a0de33e67de27d530479d4894bd20d4c827b4250fd56ab9e9de2e2a488baf"
   },
-  "changelog": "## Valetudo nightly (2023-04-23T01:07:44.040Z)\n\n### Features\n\n- add embebed error to faq [`66978f4`](https://github.com/congatudo/Congatudo/commit/66978f4cbf4ed7fba0d8989dd1d819881e3f8904)\n- docker-compose added [`8d3349d`](https://github.com/congatudo/Congatudo/commit/8d3349d5c264b149daa117575b10c02066ee5f67)\n- add config file name [`1663e60`](https://github.com/congatudo/Congatudo/commit/1663e606600e1af6391f0cbc2c0e28dae4a931eb)\n- update readme [`f684e48`](https://github.com/congatudo/Congatudo/commit/f684e4804664fde1c16cd2af2c2b2dfbf6d57b95)\n- embebed false as default [`f98f378`](https://github.com/congatudo/Congatudo/commit/f98f37883af0d641b981c4bd0f72aaa16cc7cebb)\n\n### Fixes\n\n- image link [`9f202bf`](https://github.com/congatudo/Congatudo/commit/9f202bfd4899d6af77f460f10c67690213097904)\n- issue #59 [`46cea28`](https://github.com/congatudo/Congatudo/commit/46cea28f22356ebfc6a4ddf6cbfb177e95e64efd)\n"
+  "changelog": "## Valetudo nightly (2023-04-24T01:04:49.230Z)\n"
 }
