@@ -1,1 +1,5 @@
-## Valetudo nightly (2023-05-12T01:03:00.071Z)
+## Valetudo nightly (2023-05-13T01:01:15.548Z)
+
+### Chores
+
+- Merge pull request #70 from congatudo/dependabot/bundler/docs/nokogiri-1.14.3 [`f9ced2e`](https://github.com/congatudo/Congatudo/commit/f9ced2ed073577446df2c141f5062cbc4e26baa9)

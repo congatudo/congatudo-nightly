@@ -1,13 +1,13 @@
 {
-  "timestamp": "2023-05-12T01:03:00.549Z",
+  "timestamp": "2023-05-13T01:01:16.071Z",
   "version": "nightly",
   "sha256sums": {
-    "valetudo-armv7": "0681786422fb5f9b9ee0eda6774bf94807bb87673c3f1f1b1fdb143b8c05f45d",
-    "valetudo-armv7-lowmem": "14ce3ace02f4a2a91d581167427e29dee618ec0ab4afdb1945346a34879f189c",
-    "valetudo-aarch64": "661436af90eddd1805227b54a95003284f50dd95d2aab57e729eee6d475f8bce",
-    "valetudo-armv7.upx": "9ef6059f4fd89a3526a5ff40585c41ca5f725e7ca5eff0159af958d2449f206b",
-    "valetudo-armv7-lowmem.upx": "24a11453a8b2e1202094ecec00acff066f09d0741b864d729411c1490507ae73",
-    "valetudo-aarch64.upx": "dafd81442be32e85f00f7d5057dd509221cb43c07b38b5d860e8f986477b5e17"
+    "valetudo-armv7": "d9d00a08655adef3d454446645abe993161831e8fd11f670887ec8dd3a867c6d",
+    "valetudo-armv7-lowmem": "ac1314b59a3941a5265da0a744d6b23cd0b0fbd4928996066bb494a7df12d47c",
+    "valetudo-aarch64": "ef2693b72894b2791cd95f334b6058408602b83548fea0d829918f1f84891eba",
+    "valetudo-armv7.upx": "08c016183b58bc1b28a104341a409f57f4eff1aab3c35e553f1f060ea1983705",
+    "valetudo-armv7-lowmem.upx": "90cf45861c24399c06197d2bfb66cae7b065597a0f61994ba558c428fded170c",
+    "valetudo-aarch64.upx": "24ee1d8bf5a6d44a24ae1cb4ed87d2dd5d11df8b1499064e8d0504d1aab08a66"
   },
-  "changelog": "## Valetudo nightly (2023-05-12T01:03:00.071Z)\n"
+  "changelog": "## Valetudo nightly (2023-05-13T01:01:15.548Z)\n\n### Chores\n\n- Merge pull request #70 from congatudo/dependabot/bundler/docs/nokogiri-1.14.3 [`f9ced2e`](https://github.com/congatudo/Congatudo/commit/f9ced2ed073577446df2c141f5062cbc4e26baa9)\n"
 }
