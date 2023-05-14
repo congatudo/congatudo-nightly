@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-05-13T01:01:16.071Z",
+  "timestamp": "2023-05-14T01:08:29.918Z",
   "version": "nightly",
   "sha256sums": {
     "valetudo-armv7": "d9d00a08655adef3d454446645abe993161831e8fd11f670887ec8dd3a867c6d",
@@ -9,5 +9,5 @@
     "valetudo-armv7-lowmem.upx": "90cf45861c24399c06197d2bfb66cae7b065597a0f61994ba558c428fded170c",
     "valetudo-aarch64.upx": "24ee1d8bf5a6d44a24ae1cb4ed87d2dd5d11df8b1499064e8d0504d1aab08a66"
   },
-  "changelog": "## Valetudo nightly (2023-05-13T01:01:15.548Z)\n\n### Chores\n\n- Merge pull request #70 from congatudo/dependabot/bundler/docs/nokogiri-1.14.3 [`f9ced2e`](https://github.com/congatudo/Congatudo/commit/f9ced2ed073577446df2c141f5062cbc4e26baa9)\n"
+  "changelog": "## Valetudo nightly (2023-05-14T01:08:29.172Z)\n\n### Chores\n\n- Merge pull request #70 from congatudo/dependabot/bundler/docs/nokogiri-1.14.3 [`f9ced2e`](https://github.com/congatudo/Congatudo/commit/f9ced2ed073577446df2c141f5062cbc4e26baa9)\n"
 }
