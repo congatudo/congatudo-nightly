@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-08-14T02:26:50.602Z",
+  "timestamp": "2023-08-15T02:28:02.193Z",
   "version": "nightly",
   "sha256sums": {
     "valetudo-armv7": "96b9c116b0a34b6abcdfe11554cf473717a3139a5b2981e506ba05b4a12db9d5",
@@ -9,5 +9,5 @@
     "valetudo-armv7-lowmem.upx": "ed5171b357ad760dfd538b7d069288f8b52fbddb049fe2882923c0e3b01b2b62",
     "valetudo-aarch64.upx": "b0b4c083a434b5feee3388ea72968b93c8faca38efe542cd2addf91c14e4e9c7"
   },
-  "changelog": "## Valetudo nightly (2023-08-14T02:26:50.229Z)\n"
+  "changelog": "## Valetudo nightly (2023-08-15T02:28:01.741Z)\n"
 }
