@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-11-28T02:34:51.632Z",
+  "timestamp": "2023-11-29T02:33:30.699Z",
   "version": "nightly",
   "sha256sums": {
     "valetudo-armv7": "35f83ad5fd44fd813c42687cdfe04051e1186d014aa4527d7e015e94a1c9c9f6",
@@ -9,5 +9,5 @@
     "valetudo-armv7-lowmem.upx": "a9a634c39492e2863e5401994aa4cd5eed8998be70bf2854e67aa03f9d13bcfa",
     "valetudo-aarch64.upx": "67811f4521adef416fd64848baa426dded29c63e39efdfe4c2cdc0e1e64e8b62"
   },
-  "changelog": "## Valetudo nightly (2023-11-28T02:34:51.251Z)\n\n### Features\n\n- working on zone management [`93d5948`](https://github.com/congatudo/Congatudo/commit/93d59487a870db25627d99ebf5cd62a09ee504be)\n- **web**: more pages on website [`3cbaf41`](https://github.com/congatudo/Congatudo/commit/3cbaf418b25aba5fd6bbf04f5a4f25a6bab38845)\n- **web**: more pages on website [`ce270db`](https://github.com/congatudo/Congatudo/commit/ce270db3d3711aa4737fe1bf9c02e84d605c33e5)\n- **web**: more pages on website [`d85e3c4`](https://github.com/congatudo/Congatudo/commit/d85e3c406f8c239d638cb94242114cf22f71c36d)\n- **web**: more pages on website [`dc73bd4`](https://github.com/congatudo/Congatudo/commit/dc73bd4f89204b374e0c0c28312602eebace724e)\n- **web**: more pages on website [`4ccb959`](https://github.com/congatudo/Congatudo/commit/4ccb9597514a79b8436873059b750cf36cee4fb6)\n- **web**: new website [`609b700`](https://github.com/congatudo/Congatudo/commit/609b7008e3e5d64904bf21184a24db55c91b0840)\n\n### Fixes\n\n- zone management wrong tab [`27f36ae`](https://github.com/congatudo/Congatudo/commit/27f36aec318d4e0c371d9311545e89c5abef6b63)\n"
+  "changelog": "## Valetudo nightly (2023-11-29T02:33:30.313Z)\n\n### Features\n\n- working on zone management [`93d5948`](https://github.com/congatudo/Congatudo/commit/93d59487a870db25627d99ebf5cd62a09ee504be)\n- **web**: more pages on website [`3cbaf41`](https://github.com/congatudo/Congatudo/commit/3cbaf418b25aba5fd6bbf04f5a4f25a6bab38845)\n- **web**: more pages on website [`ce270db`](https://github.com/congatudo/Congatudo/commit/ce270db3d3711aa4737fe1bf9c02e84d605c33e5)\n- **web**: more pages on website [`d85e3c4`](https://github.com/congatudo/Congatudo/commit/d85e3c406f8c239d638cb94242114cf22f71c36d)\n- **web**: more pages on website [`dc73bd4`](https://github.com/congatudo/Congatudo/commit/dc73bd4f89204b374e0c0c28312602eebace724e)\n- **web**: more pages on website [`4ccb959`](https://github.com/congatudo/Congatudo/commit/4ccb9597514a79b8436873059b750cf36cee4fb6)\n- **web**: new website [`609b700`](https://github.com/congatudo/Congatudo/commit/609b7008e3e5d64904bf21184a24db55c91b0840)\n\n### Fixes\n\n- zone management wrong tab [`27f36ae`](https://github.com/congatudo/Congatudo/commit/27f36aec318d4e0c371d9311545e89c5abef6b63)\n"
 }
