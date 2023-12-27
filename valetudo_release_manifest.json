@@ -1,13 +1,13 @@
 {
-  "timestamp": "2023-12-26T02:30:12.859Z",
+  "timestamp": "2023-12-27T02:30:42.793Z",
   "version": "nightly",
   "sha256sums": {
-    "valetudo-armv7": "35f83ad5fd44fd813c42687cdfe04051e1186d014aa4527d7e015e94a1c9c9f6",
-    "valetudo-armv7-lowmem": "3ab1c3fce591b401ad67d12ef99d99084622607d0766917ba2ce98a61284ceca",
-    "valetudo-aarch64": "9c110bcfc30fe94816bf94fcaf885bb0165870a6cfe66b38a0dba42c23b3b669",
-    "valetudo-armv7.upx": "45f0a44a7407a42177bf7205a3c2844f59f6760c2cd30484a562a0a2fbbdc113",
-    "valetudo-armv7-lowmem.upx": "a9a634c39492e2863e5401994aa4cd5eed8998be70bf2854e67aa03f9d13bcfa",
-    "valetudo-aarch64.upx": "67811f4521adef416fd64848baa426dded29c63e39efdfe4c2cdc0e1e64e8b62"
+    "valetudo-armv7": "cf7fa684481fbb5a91c716c07accc1f774af567d3dbb50adafa754a5ebcc678b",
+    "valetudo-armv7-lowmem": "5d0c0d4c61130278fc2adbb3e71c4485e1d3551bede9b32df5525dd3285b92ef",
+    "valetudo-aarch64": "4b614bd1dc19e2a7ee641f519eb4bdc1b5a4cb1471da62408f9c4196923ca77a",
+    "valetudo-armv7.upx": "0e96cbf23cc0bac9714708cfc0b7c8f90c2b5e825def5890f42d1c8aa7ab82d6",
+    "valetudo-armv7-lowmem.upx": "6086a45d10539cd8be7db60922ee0d8be3618a6ab97e1e77053b6f0a9c7473b4",
+    "valetudo-aarch64.upx": "0c547b326f26b277d65acd95d864dd9b4ee3103145f9705e723ed665200c6fcd"
   },
-  "changelog": "## Valetudo nightly (2023-12-26T02:30:12.459Z)\n\n### Features\n\n- working on zone management [`93d5948`](https://github.com/congatudo/Congatudo/commit/93d59487a870db25627d99ebf5cd62a09ee504be)\n- **web**: more pages on website [`3cbaf41`](https://github.com/congatudo/Congatudo/commit/3cbaf418b25aba5fd6bbf04f5a4f25a6bab38845)\n- **web**: more pages on website [`ce270db`](https://github.com/congatudo/Congatudo/commit/ce270db3d3711aa4737fe1bf9c02e84d605c33e5)\n- **web**: more pages on website [`d85e3c4`](https://github.com/congatudo/Congatudo/commit/d85e3c406f8c239d638cb94242114cf22f71c36d)\n- **web**: more pages on website [`dc73bd4`](https://github.com/congatudo/Congatudo/commit/dc73bd4f89204b374e0c0c28312602eebace724e)\n- **web**: more pages on website [`4ccb959`](https://github.com/congatudo/Congatudo/commit/4ccb9597514a79b8436873059b750cf36cee4fb6)\n- **web**: new website [`609b700`](https://github.com/congatudo/Congatudo/commit/609b7008e3e5d64904bf21184a24db55c91b0840)\n\n### Fixes\n\n- zone management wrong tab [`27f36ae`](https://github.com/congatudo/Congatudo/commit/27f36aec318d4e0c371d9311545e89c5abef6b63)\n"
+  "changelog": "## Valetudo nightly (2023-12-27T02:30:42.423Z)\n\n### Features\n\n- working on zone management [`93d5948`](https://github.com/congatudo/Congatudo/commit/93d59487a870db25627d99ebf5cd62a09ee504be)\n- **web**: more pages on website [`3cbaf41`](https://github.com/congatudo/Congatudo/commit/3cbaf418b25aba5fd6bbf04f5a4f25a6bab38845)\n- **web**: more pages on website [`ce270db`](https://github.com/congatudo/Congatudo/commit/ce270db3d3711aa4737fe1bf9c02e84d605c33e5)\n- **web**: more pages on website [`d85e3c4`](https://github.com/congatudo/Congatudo/commit/d85e3c406f8c239d638cb94242114cf22f71c36d)\n- **web**: more pages on website [`dc73bd4`](https://github.com/congatudo/Congatudo/commit/dc73bd4f89204b374e0c0c28312602eebace724e)\n- **web**: more pages on website [`4ccb959`](https://github.com/congatudo/Congatudo/commit/4ccb9597514a79b8436873059b750cf36cee4fb6)\n- **web**: new website [`609b700`](https://github.com/congatudo/Congatudo/commit/609b7008e3e5d64904bf21184a24db55c91b0840)\n\n### Fixes\n\n- zone management wrong tab [`27f36ae`](https://github.com/congatudo/Congatudo/commit/27f36aec318d4e0c371d9311545e89c5abef6b63)\n"
 }
