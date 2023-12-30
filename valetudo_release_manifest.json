@@ -1,13 +1,13 @@
 {
-  "timestamp": "2023-12-29T02:28:51.377Z",
+  "timestamp": "2023-12-30T02:31:13.230Z",
   "version": "nightly",
   "sha256sums": {
-    "valetudo-armv7": "6a3628016d5f59c0835f9b2b922c9f8426beab55778dbe638f9f918a8d8aa49f",
-    "valetudo-armv7-lowmem": "dc42476b433a640c600f4384003f541543e01e5a4b1077a338933757d729518b",
-    "valetudo-aarch64": "8a2963f5fa8dc00bf59c67f9055caea66fe85370180d0429f89d1c7671a6edcc",
-    "valetudo-armv7.upx": "ff120e97c508b20cc90560699ebca9f11fae1094859b773625e3ab4945f064a2",
-    "valetudo-armv7-lowmem.upx": "964e7ded1f47c275ac7850fdd9fc2ead302bbf9828e06257357c0d3701995fe3",
-    "valetudo-aarch64.upx": "5376c1081f2e2510695a9cb7fc268ba139036ca6c2100af89ff4305624bc8408"
+    "valetudo-armv7": "1d3f4d4c79406d332a1e4256ca6fe5b6c19c9019d75926aef2b6b9d9d52fa852",
+    "valetudo-armv7-lowmem": "b00e644dfa407752b48f391707718a00455326953d19096819001a4d0548cf69",
+    "valetudo-aarch64": "72d8a4bafb3a23dde39e4f0f54ea32ac74cf050154e163336cc7b07f996cd6d5",
+    "valetudo-armv7.upx": "f5aa705b78547e6a765f66a9850d09cfc806aeaf7abd3d75b9b4101e7904b8da",
+    "valetudo-armv7-lowmem.upx": "c2ecaedc25e5bb6fa659acd94a9563cfe26c7a6d840a1a377d9e4278c365d757",
+    "valetudo-aarch64.upx": "8e46f2c6a6e1977bbc98ae0d475336e0978d8262f7936d529e69fab058d8bb56"
   },
-  "changelog": "## Valetudo nightly (2023-12-29T02:28:51.061Z)\n"
+  "changelog": "## Valetudo nightly (2023-12-30T02:31:12.906Z)\n\n### Fixes\n\n- mqtt severity null bug [`16f778c`](https://github.com/congatudo/Congatudo/commit/16f778c34fc2492b01c811567c1616764f4a406d)\n\n### Chores\n\n- fixed nightly docker workflow [`bb9e4be`](https://github.com/congatudo/Congatudo/commit/bb9e4be42380927073087d6fac985b395051adee)\n- changed favicon [`05e766f`](https://github.com/congatudo/Congatudo/commit/05e766f85ca80ec7d43e3faf98eeb50687b55b54)\n"
 }
