@@ -1,13 +1,13 @@
 {
-  "timestamp": "2023-12-30T02:31:13.230Z",
+  "timestamp": "2023-12-31T02:35:09.213Z",
   "version": "nightly",
   "sha256sums": {
-    "valetudo-armv7": "1d3f4d4c79406d332a1e4256ca6fe5b6c19c9019d75926aef2b6b9d9d52fa852",
-    "valetudo-armv7-lowmem": "b00e644dfa407752b48f391707718a00455326953d19096819001a4d0548cf69",
-    "valetudo-aarch64": "72d8a4bafb3a23dde39e4f0f54ea32ac74cf050154e163336cc7b07f996cd6d5",
-    "valetudo-armv7.upx": "f5aa705b78547e6a765f66a9850d09cfc806aeaf7abd3d75b9b4101e7904b8da",
-    "valetudo-armv7-lowmem.upx": "c2ecaedc25e5bb6fa659acd94a9563cfe26c7a6d840a1a377d9e4278c365d757",
-    "valetudo-aarch64.upx": "8e46f2c6a6e1977bbc98ae0d475336e0978d8262f7936d529e69fab058d8bb56"
+    "valetudo-armv7": "9187b5e28a411ac24853dc282951ba9a017c78af7d004676f438e6b09b55dbef",
+    "valetudo-armv7-lowmem": "eb9b5198ac2e193120492c916b8121a17379165c94b367b472f9c48a1dd27a10",
+    "valetudo-aarch64": "e269f3323064cff88f48fb55668ed36b0aa5d67293dc593316ce02b4135b23f8",
+    "valetudo-armv7.upx": "99c169e1991c02a02c9755dee719f71ff3d1e2625f562dbb313e7618c2a540eb",
+    "valetudo-armv7-lowmem.upx": "c888bc26953b926bd1244fecf2ff5162131b1ee724cf80c9df4640aef39cdf48",
+    "valetudo-aarch64.upx": "194e7ea53b005e991a6e753e86ee01b67c17425d17c04c700e0442edda00cf2c"
   },
-  "changelog": "## Valetudo nightly (2023-12-30T02:31:12.906Z)\n\n### Fixes\n\n- mqtt severity null bug [`16f778c`](https://github.com/congatudo/Congatudo/commit/16f778c34fc2492b01c811567c1616764f4a406d)\n\n### Chores\n\n- fixed nightly docker workflow [`bb9e4be`](https://github.com/congatudo/Congatudo/commit/bb9e4be42380927073087d6fac985b395051adee)\n- changed favicon [`05e766f`](https://github.com/congatudo/Congatudo/commit/05e766f85ca80ec7d43e3faf98eeb50687b55b54)\n"
+  "changelog": "## Valetudo nightly (2023-12-31T02:35:08.876Z)\n\n### Fixes\n\n- mqtt severity null bug [`16f778c`](https://github.com/congatudo/Congatudo/commit/16f778c34fc2492b01c811567c1616764f4a406d)\n\n### Chores\n\n- fixed nightly docker workflow [`bb9e4be`](https://github.com/congatudo/Congatudo/commit/bb9e4be42380927073087d6fac985b395051adee)\n- changed favicon [`05e766f`](https://github.com/congatudo/Congatudo/commit/05e766f85ca80ec7d43e3faf98eeb50687b55b54)\n"
 }
