@@ -1,11 +1,19 @@
-## Congatudo nightly (2024-01-02T02:35:03.520Z)
+## Congatudo nightly (2024-01-03T02:32:51.759Z)
 
 ### Fixes
 
+- **ui**: Improve map zoom range clipping [`44f0979`](https://github.com/congatudo/Congatudo/commit/44f09794f34b3b7e6999783596b0182c4cc0aea8)
 - mqtt severity null bug [`16f778c`](https://github.com/congatudo/Congatudo/commit/16f778c34fc2492b01c811567c1616764f4a406d)
 
 ### Chores
 
+- more removed strings [`dc8d24a`](https://github.com/congatudo/Congatudo/commit/dc8d24a91f9a99e551b006d615abd5bb24803187)
+- new issue template [`312324f`](https://github.com/congatudo/Congatudo/commit/312324f165cba1201324adc357c789e4764c49a2)
+- Merge pull request #90 from congatudo/dependabot/bundler/docs/commonmarker-0.23.10 [`6e2bdd4`](https://github.com/congatudo/Congatudo/commit/6e2bdd4a8e34cb9c4d9d4077ad0b651bfeacbde0)
+- Merge pull request #81 from congatudo/dependabot/npm_and_yarn/tough-cookie-4.1.3 [`4030e36`](https://github.com/congatudo/Congatudo/commit/4030e36c3b7f45e47c1f8562ccd2280e5cbd4b17)
+- Merge pull request #82 from congatudo/dependabot/npm_and_yarn/semver-5.7.2 [`b55a091`](https://github.com/congatudo/Congatudo/commit/b55a091f01e39d82f82697878afc9b9b6ccbaa46)
+- Merge pull request #87 from congatudo/dependabot/npm_and_yarn/protobufjs-7.2.5 [`4124058`](https://github.com/congatudo/Congatudo/commit/4124058e497c8c5314e51eb61cd5771d201a2070)
+- Merge pull request #88 from congatudo/dependabot/npm_and_yarn/word-wrap-1.2.5 [`ea5b699`](https://github.com/congatudo/Congatudo/commit/ea5b69953d02d81d3550249d242844cfe123df97)
 - removed total lines of code and more strings [`2534563`](https://github.com/congatudo/Congatudo/commit/2534563b3eb703953ef563ccaacd46dc714ea18c)
 - removed total lines of code and more strings [`700ac75`](https://github.com/congatudo/Congatudo/commit/700ac75987ff782a0a09ffb5078940edf555ebb3)
 - replace a lot of strings [`4d0f685`](https://github.com/congatudo/Congatudo/commit/4d0f6859109e64bebf3aef43798157fb597fc1c6)
