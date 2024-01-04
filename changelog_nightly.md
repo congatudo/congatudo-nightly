@@ -1,7 +1,8 @@
-## Congatudo nightly (2024-01-03T02:32:51.759Z)
+## Congatudo nightly (2024-01-04T02:34:00.452Z)
 
 ### Fixes
 
+- fixed m² number [`bc6cb53`](https://github.com/congatudo/Congatudo/commit/bc6cb53f68b4b99f6354249f95522440fd38e534)
 - **ui**: Improve map zoom range clipping [`44f0979`](https://github.com/congatudo/Congatudo/commit/44f09794f34b3b7e6999783596b0182c4cc0aea8)
 - mqtt severity null bug [`16f778c`](https://github.com/congatudo/Congatudo/commit/16f778c34fc2492b01c811567c1616764f4a406d)
 
