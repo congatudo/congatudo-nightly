@@ -1,4 +1,4 @@
-## Congatudo nightly (2024-01-14T02:39:26.917Z)
+## Congatudo nightly (2024-01-15T02:39:10.492Z)
 
 ### Fixes
 
@@ -11,6 +11,7 @@
 
 ### Chores
 
+- fix linux build binaries [`23aa677`](https://github.com/congatudo/Congatudo/commit/23aa677dbb726f77747c14a6888d3bf0bcf963cc)
 - more removed strings [`dc8d24a`](https://github.com/congatudo/Congatudo/commit/dc8d24a91f9a99e551b006d615abd5bb24803187)
 - new issue template [`312324f`](https://github.com/congatudo/Congatudo/commit/312324f165cba1201324adc357c789e4764c49a2)
 - Merge pull request #90 from congatudo/dependabot/bundler/docs/commonmarker-0.23.10 [`6e2bdd4`](https://github.com/congatudo/Congatudo/commit/6e2bdd4a8e34cb9c4d9d4077ad0b651bfeacbde0)
