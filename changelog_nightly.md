@@ -1,4 +1,10 @@
-## Congatudo nightly (2024-01-30T02:26:42.019Z)
+## Congatudo nightly (2024-01-31T02:27:17.899Z)
+
+### Features
+
+- **ntpClient**: Double wait time to next attempt on each sync error [`5678755`](https://github.com/congatudo/Congatudo/commit/5678755b7661f1edf6c478b4242f185538e57c8f)
+- **mqtt**: Publish ValetudoEvents to MQTT and allow interacting with it via MQTT [`133b284`](https://github.com/congatudo/Congatudo/commit/133b28420b528084e18d049b9911f87575f9b27a)
+- **ui**: Display current robot time in NTPConnectivity view [`d374c29`](https://github.com/congatudo/Congatudo/commit/d374c29840fc3aaa325247b1f41cb69a9a3d9a69)
 
 ### Fixes
 
@@ -11,6 +17,15 @@
 
 ### Chores
 
+- ci action format [`fd52ae0`](https://github.com/congatudo/Congatudo/commit/fd52ae08371d0832ed2276734cefa4ed0e70be29)
+- ci action format [`de07f33`](https://github.com/congatudo/Congatudo/commit/de07f339c44c5132f2f8124b53c83d8bd8122a43)
+- ci action format [`51fd486`](https://github.com/congatudo/Congatudo/commit/51fd4868e9f7c573879718a8b3c3c7aa7137fe96)
+- ci action format [`2b2f41c`](https://github.com/congatudo/Congatudo/commit/2b2f41c33ed099c7bfeafe9d7449f08b8c2090a7)
+- ci action format [`c2f323e`](https://github.com/congatudo/Congatudo/commit/c2f323e89aac996e75f6f807083ed23dbaccb676)
+- added link checker [`91c0842`](https://github.com/congatudo/Congatudo/commit/91c0842947ca24dbb947c4f86bae2031c2e08404)
+- Merge pull request #94 from congatudo/dependabot/npm_and_yarn/follow-redirects-1.15.4 [`c461ca2`](https://github.com/congatudo/Congatudo/commit/c461ca2a0233eb1d20590694d0907614bbd7fc16)
+- added link checker [`7cd1e33`](https://github.com/congatudo/Congatudo/commit/7cd1e335063a10d9c2c799ad0e5f322791880820)
+- added link checker [`8a365b0`](https://github.com/congatudo/Congatudo/commit/8a365b0b15db3645b27f4a4411f3c07414e05af5)
 - fix linux build binaries [`23aa677`](https://github.com/congatudo/Congatudo/commit/23aa677dbb726f77747c14a6888d3bf0bcf963cc)
 - more removed strings [`dc8d24a`](https://github.com/congatudo/Congatudo/commit/dc8d24a91f9a99e551b006d615abd5bb24803187)
 - new issue template [`312324f`](https://github.com/congatudo/Congatudo/commit/312324f165cba1201324adc357c789e4764c49a2)
