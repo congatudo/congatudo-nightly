@@ -1,4 +1,4 @@
-## Congatudo nightly (2024-02-01T02:31:15.406Z)
+## Congatudo nightly (2024-02-02T02:26:34.949Z)
 
 ### Features
 
@@ -8,6 +8,8 @@
 
 ### Fixes
 
+- parsed mqtt messages [`f0455fb`](https://github.com/congatudo/Congatudo/commit/f0455fb30a7cf7a8e8ff5cf99ca72e587b991b1a)
+- migration config [`afd188d`](https://github.com/congatudo/Congatudo/commit/afd188d1a40ad4091a31596a39bc543fde800721)
 - attempt to try fix #93 [`c0c4211`](https://github.com/congatudo/Congatudo/commit/c0c4211375410bc40aa524dfb711cadc8b917e32)
 - fixed m² number [`53056ad`](https://github.com/congatudo/Congatudo/commit/53056ad401372aa19f7102514da0ffacc6748449)
 - nightly updater [`fc82868`](https://github.com/congatudo/Congatudo/commit/fc8286830c9bcf55eb2fe865d57882957d35beba)
