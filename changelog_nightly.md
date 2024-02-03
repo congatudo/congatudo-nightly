@@ -1,4 +1,4 @@
-## Congatudo nightly (2024-02-02T02:26:34.949Z)
+## Congatudo nightly (2024-02-03T02:24:35.744Z)
 
 ### Features
 
@@ -8,6 +8,8 @@
 
 ### Fixes
 
+- added missing capabilities [`496d3c3`](https://github.com/congatudo/Congatudo/commit/496d3c32281c144fb0be66381578540324837ee9)
+- added missing schema [`35f6465`](https://github.com/congatudo/Congatudo/commit/35f646560679f7175535582c7633172e17b9313a)
 - parsed mqtt messages [`f0455fb`](https://github.com/congatudo/Congatudo/commit/f0455fb30a7cf7a8e8ff5cf99ca72e587b991b1a)
 - migration config [`afd188d`](https://github.com/congatudo/Congatudo/commit/afd188d1a40ad4091a31596a39bc543fde800721)
 - attempt to try fix #93 [`c0c4211`](https://github.com/congatudo/Congatudo/commit/c0c4211375410bc40aa524dfb711cadc8b917e32)
@@ -19,6 +21,7 @@
 
 ### Chores
 
+- removed unnecessary code [`e0c6203`](https://github.com/congatudo/Congatudo/commit/e0c6203382652bcb83e565a176db8ec25696aaf9)
 - ci action format [`fd52ae0`](https://github.com/congatudo/Congatudo/commit/fd52ae08371d0832ed2276734cefa4ed0e70be29)
 - ci action format [`de07f33`](https://github.com/congatudo/Congatudo/commit/de07f339c44c5132f2f8124b53c83d8bd8122a43)
 - ci action format [`51fd486`](https://github.com/congatudo/Congatudo/commit/51fd4868e9f7c573879718a8b3c3c7aa7137fe96)
