@@ -1,4 +1,4 @@
-## Congatudo nightly (2024-02-24T02:24:47.314Z)
+## Congatudo nightly (2024-02-25T02:29:29.751Z)
 
 ### Features
 
@@ -8,6 +8,7 @@
 
 ### Fixes
 
+- deprecation [`e0183ca`](https://github.com/congatudo/Congatudo/commit/e0183ca11d52bd26987401f9faf9f7caf49f3d82)
 - added missing capabilities [`496d3c3`](https://github.com/congatudo/Congatudo/commit/496d3c32281c144fb0be66381578540324837ee9)
 - added missing schema [`35f6465`](https://github.com/congatudo/Congatudo/commit/35f646560679f7175535582c7633172e17b9313a)
 - parsed mqtt messages [`f0455fb`](https://github.com/congatudo/Congatudo/commit/f0455fb30a7cf7a8e8ff5cf99ca72e587b991b1a)
