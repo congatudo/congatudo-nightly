@@ -1,4 +1,4 @@
-## Congatudo nightly (2024-04-07T02:31:44.899Z)
+## Congatudo nightly (2024-04-08T02:31:05.881Z)
 
 ### Features
 
@@ -22,6 +22,10 @@
 
 ### Chores
 
+- Merge pull request #99 from congatudo/dependabot/npm_and_yarn/axios-0.28.0 [`228d45a`](https://github.com/congatudo/Congatudo/commit/228d45ab50f57d2bd631efd38dbbf0e606dcbbb9)
+- Merge pull request #100 from congatudo/dependabot/npm_and_yarn/follow-redirects-1.15.6 [`7ab20e7`](https://github.com/congatudo/Congatudo/commit/7ab20e742dcab6a1b2f2f2a740abcc2eb591621b)
+- Merge pull request #102 from congatudo/dependabot/npm_and_yarn/webpack-dev-middleware-5.3.4 [`bde9ad0`](https://github.com/congatudo/Congatudo/commit/bde9ad0a5e85e0ce858727474bdbc17bcd811472)
+- Merge pull request #103 from congatudo/dependabot/npm_and_yarn/express-4.19.2 [`d9d28d2`](https://github.com/congatudo/Congatudo/commit/d9d28d2c5c916e1b127fe499d09530e07ec68679)
 - removed unnecessary code [`e0c6203`](https://github.com/congatudo/Congatudo/commit/e0c6203382652bcb83e565a176db8ec25696aaf9)
 - ci action format [`fd52ae0`](https://github.com/congatudo/Congatudo/commit/fd52ae08371d0832ed2276734cefa4ed0e70be29)
 - ci action format [`de07f33`](https://github.com/congatudo/Congatudo/commit/de07f339c44c5132f2f8124b53c83d8bd8122a43)
