@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-04-28T02:35:36.536Z",
+  "timestamp": "2024-04-29T02:33:04.040Z",
   "version": "nightly",
   "sha256sums": {
     "valetudo-armv7": "f91af5d8f0c09b04ece277c8dcb0e77b003342ce9ac9c9319ac184ef99fbb461",
@@ -9,5 +9,5 @@
     "valetudo-armv7-lowmem.upx": "3c644d126b5875859d6146216976775d1188fa5b5e734635f2a5200873ae1559",
     "valetudo-aarch64.upx": "4173bc23a543ca22bf3d5966a41f33416978a15a428460cd41cbe6553d6c74c2"
   },
-  "changelog": "## Congatudo nightly (2024-04-28T02:35:36.222Z)\n\n### Chores\n\n- updated github actions to node 20 [`9d4ee80`](https://github.com/congatudo/Congatudo/commit/9d4ee809ca0c1cbb640d54dd0c92b02eaad8788e)\n"
+  "changelog": "## Congatudo nightly (2024-04-29T02:33:03.722Z)\n\n### Chores\n\n- updated github actions to node 20 [`9d4ee80`](https://github.com/congatudo/Congatudo/commit/9d4ee809ca0c1cbb640d54dd0c92b02eaad8788e)\n"
 }
