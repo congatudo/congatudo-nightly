@@ -1,13 +1,13 @@
 {
-  "timestamp": "2024-05-03T02:34:35.733Z",
+  "timestamp": "2024-05-04T02:29:30.216Z",
   "version": "nightly",
   "sha256sums": {
-    "valetudo-armv7": "f91af5d8f0c09b04ece277c8dcb0e77b003342ce9ac9c9319ac184ef99fbb461",
-    "valetudo-armv7-lowmem": "61eedf396dac636257dbc98697375d6df3c3dadb0d732d438f2ea430677fbf73",
-    "valetudo-aarch64": "d698913fcb3d02ff3f7124bc57e19b6ae026b652acbe4be5df091da5d14fc5d0",
-    "valetudo-armv7.upx": "b58909a723f4284b133c2e217484ec8009376ced30d1367ee80f8789561e6993",
-    "valetudo-armv7-lowmem.upx": "3c644d126b5875859d6146216976775d1188fa5b5e734635f2a5200873ae1559",
-    "valetudo-aarch64.upx": "4173bc23a543ca22bf3d5966a41f33416978a15a428460cd41cbe6553d6c74c2"
+    "valetudo-armv7": "1627ef2d6621ef80e3225f92d857f24fa3b4ba30b8af14fd34d9affa3669849d",
+    "valetudo-armv7-lowmem": "0b0826b560055cb50ec9c7170085244a42b46a81fa1ba5e7e3e7e9c536c88f08",
+    "valetudo-aarch64": "5c11fe96dc1a9846207862f74dbd07a7b9128282f2001e3b99916244e1dff17f",
+    "valetudo-armv7.upx": "fb62d443a63aef3dc96948b8cc476f3fa3ff56d50827460df4426977a2744ea8",
+    "valetudo-armv7-lowmem.upx": "6bfb725e2dbf7e9e148d88a13992e7a1356afa2888e47b687b3ca4476f65ef8f",
+    "valetudo-aarch64.upx": "04bd97197af957adc99341b4dc740df16d485cc63bab9089823598adce79af7d"
   },
-  "changelog": "## Congatudo nightly (2024-05-03T02:34:35.416Z)\n\n### Chores\n\n- updated github actions to node 20 [`9d4ee80`](https://github.com/congatudo/Congatudo/commit/9d4ee809ca0c1cbb640d54dd0c92b02eaad8788e)\n"
+  "changelog": "## Congatudo nightly (2024-05-04T02:29:29.875Z)\n\n### Fixes\n\n- **mqtt**: bump to mqttjs v5.5.5 to fix some keep-alive related issues [`8e4a7b5`](https://github.com/congatudo/Congatudo/commit/8e4a7b54f6fc2ec9ccadd003b494097ede8524b7)\n\n### Chores\n\n- **docs**: fixed donate link again [`1456b9e`](https://github.com/congatudo/Congatudo/commit/1456b9eccda88e39aaf1684333d3d51f34fd4f55)\n- **docs**: fixed donate link [`853fbe4`](https://github.com/congatudo/Congatudo/commit/853fbe4400376bb80bf254e7607a318e51c6f11f)\n- Merge pull request #105 from congatudo/dependabot/bundler/docs/nokogiri-1.16.4 [`94831c8`](https://github.com/congatudo/Congatudo/commit/94831c8506f16fc7f5191768dfeb04ddd68f3e31)\n- Merge pull request #104 from congatudo/dependabot/npm_and_yarn/backend/axios-0.28.0 [`0806a09`](https://github.com/congatudo/Congatudo/commit/0806a09f913e0a8f0527d5c31e1b6e058d668bcb)\n- **node**: update deps [`894bc72`](https://github.com/congatudo/Congatudo/commit/894bc727c755a810cc01fed36b632d24b52da245)\n- updated github actions to node 20 [`9d4ee80`](https://github.com/congatudo/Congatudo/commit/9d4ee809ca0c1cbb640d54dd0c92b02eaad8788e)\n"
 }
