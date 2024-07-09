@@ -1,11 +1,16 @@
-## Congatudo nightly (2024-07-08T02:41:48.345Z)
+## Congatudo nightly (2024-07-09T02:41:33.840Z)
 
 ### Fixes
 
+- remove trailing spaces [`53328d9`](https://github.com/congatudo/Congatudo/commit/53328d93cf7074bfe426246a0fc33d065005b426)
+- zone management section [`a50b950`](https://github.com/congatudo/Congatudo/commit/a50b950a848af39e1c3bf38429b77d798ef14bdc)
 - **mqtt**: bump to mqttjs v5.5.5 to fix some keep-alive related issues [`8e4a7b5`](https://github.com/congatudo/Congatudo/commit/8e4a7b54f6fc2ec9ccadd003b494097ede8524b7)
 
 ### Chores
 
+- Merge pull request #107 from congatudo/dependabot/bundler/docs/nokogiri-1.16.5 [`a2e4358`](https://github.com/congatudo/Congatudo/commit/a2e43583569fecd19d51ead1a085ebcc98347017)
+- Merge pull request #108 from congatudo/dependabot/bundler/docs/rexml-3.2.8 [`683254f`](https://github.com/congatudo/Congatudo/commit/683254fceda69a2b770d520a2d8d5ef3d7e455fd)
+- Merge pull request #113 from congatudo/dependabot/npm_and_yarn/braces-3.0.3 [`84e53f4`](https://github.com/congatudo/Congatudo/commit/84e53f4a81ce1ed52b7182319405eadf0c4d5397)
 - **docs**: fixed donate link again [`1456b9e`](https://github.com/congatudo/Congatudo/commit/1456b9eccda88e39aaf1684333d3d51f34fd4f55)
 - **docs**: fixed donate link [`853fbe4`](https://github.com/congatudo/Congatudo/commit/853fbe4400376bb80bf254e7607a318e51c6f11f)
 - Merge pull request #105 from congatudo/dependabot/bundler/docs/nokogiri-1.16.4 [`94831c8`](https://github.com/congatudo/Congatudo/commit/94831c8506f16fc7f5191768dfeb04ddd68f3e31)
