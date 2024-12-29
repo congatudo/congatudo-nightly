@@ -1,10 +1,14 @@
-## Congatudo nightly (2024-12-28T03:01:57.167Z)
+## Congatudo nightly (2024-12-29T03:10:30.056Z)
 ### Breaking Changes
 
 - **mqtt**: Remove deprecated schema property from HA vacuum entity autodiscovery data [`f7f8a5e`](https://github.com/congatudo/Congatudo/commit/f7f8a5e8f28a8f2b7cf8842a07ddc9eac5305136)
 
 ### Features
 
+- **ui**: Trim host field inputs [`f3b2dae`](https://github.com/congatudo/Congatudo/commit/f3b2daee0d85c0643463a052208bccc28b732d12)
+- **mqtt**: Publish Dock Status to MQTT [`aa1ea95`](https://github.com/congatudo/Congatudo/commit/aa1ea95fa1d375652ef98a9dd572c3a3f41f67be)
+- Display the actual CPU usage instead of the system load [`600378c`](https://github.com/congatudo/Congatudo/commit/600378c23f39eb2ba0b041c7a23cd1cbe7968f1d)
+- **ui**: Draw half-transparent path in virtual restrictions edit map to make placing restrictions correctly easier [`4cde17e`](https://github.com/congatudo/Congatudo/commit/4cde17e36f7b4f273b10493fe997774319baa881)
 - **ui**: HiDPI support for the map renderer [`33df6b3`](https://github.com/congatudo/Congatudo/commit/33df6b30ea385db03d81244c83744260eee5caf2)
 - **ui**: Better feedback for the dock controls [`ebe3dcf`](https://github.com/congatudo/Congatudo/commit/ebe3dcfc897c06f556fc445a14d2743a4a1199ff)
 - **mqtt**: optionally expose KeyLockCapability [`a9e5751`](https://github.com/congatudo/Congatudo/commit/a9e5751fb85df6e9d688e49575e2f3426b969d9c)
@@ -15,6 +19,9 @@
 
 ### Fixes
 
+- **mqtt**: Fix Home Assistant object_id generation [`ca95146`](https://github.com/congatudo/Congatudo/commit/ca95146ca51e7912f3d1f898a5a7b8210e51b1ad)
+- A config reset should not reset the robot config [`04af155`](https://github.com/congatudo/Congatudo/commit/04af155b2f6f0cec832f49cd2b461f204dca2ff0)
+- **ui**: Fix cutting line being invisible when using the light theme [`904a70d`](https://github.com/congatudo/Congatudo/commit/904a70d108f27ecfb99f8571d0ec3ca63baaf6c4)
 - remove trailing spaces [`53328d9`](https://github.com/congatudo/Congatudo/commit/53328d93cf7074bfe426246a0fc33d065005b426)
 - **ui**: Extending HTML elements is not supported by safari [`27647f6`](https://github.com/congatudo/Congatudo/commit/27647f6fbd63fe77b30450a6c2851af1a1f8b24a)
 - **ui**: fix some hiDPI related issues [`324d78c`](https://github.com/congatudo/Congatudo/commit/324d78c0f96517369780219026eb1772ad2febbf)
@@ -28,8 +35,17 @@
 - **ui**: Fix missing controls card content indentation [`297d12b`](https://github.com/congatudo/Congatudo/commit/297d12b41f6357f7eaebfead283dc494f134a6ae)
 - **mqtt**: bump to mqttjs v5.5.5 to fix some keep-alive related issues [`8e4a7b5`](https://github.com/congatudo/Congatudo/commit/8e4a7b54f6fc2ec9ccadd003b494097ede8524b7)
 
+### Refactoring
+
+- Remove unnecessary second call to process.memoryUsage.rss() every 2.5s [`794c964`](https://github.com/congatudo/Congatudo/commit/794c964ee994bcc248db71bb5060e3eb39174952)
+
 ### Chores
 
+- Merge pull request #124 from congatudo/dependabot/github_actions/docker/login-action-3.3.0 [`1a13f35`](https://github.com/congatudo/Congatudo/commit/1a13f354b41b72550377bce70f10475414de1465)
+- Merge pull request #125 from congatudo/dependabot/github_actions/peter-evans/create-issue-from-file-5.0.1 [`119628e`](https://github.com/congatudo/Congatudo/commit/119628e5ba54594ba17a2487a3ab433152ae66b5)
+- Merge pull request #126 from congatudo/dependabot/github_actions/docker/build-push-action-6.10.0 [`7f68bf6`](https://github.com/congatudo/Congatudo/commit/7f68bf6d43429bda0d7e6acb72f63adcc38ec167)
+- Merge pull request #128 from congatudo/dependabot/github_actions/lycheeverse/lychee-action-2.2.0 [`57c69eb`](https://github.com/congatudo/Congatudo/commit/57c69ebfad6f55e481522fa86c1fd6e3e2ca6031)
+- Merge pull request #127 from congatudo/dependabot/github_actions/docker/setup-qemu-action-3.2.0 [`2d4a38f`](https://github.com/congatudo/Congatudo/commit/2d4a38fdc89919fedf988d4bbe75667f2d1a911d)
 - random workflow hours to avoid errors [`61b94f9`](https://github.com/congatudo/Congatudo/commit/61b94f93b9ac3a003f4bd65a43067a7df214a5ec)
 - upgraded mqtt and fixed bug [`993eea1`](https://github.com/congatudo/Congatudo/commit/993eea1dee520aa84d0284a8af30ce85c3d52e96)
 - delete old files [`6ddb42f`](https://github.com/congatudo/Congatudo/commit/6ddb42fea0bd7d0ef547002d26ab5464f3bb834b)
