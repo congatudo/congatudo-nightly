@@ -1,4 +1,4 @@
-## Congatudo nightly (2024-12-29T03:10:30.056Z)
+## Congatudo nightly (2024-12-30T03:07:27.055Z)
 ### Breaking Changes
 
 - **mqtt**: Remove deprecated schema property from HA vacuum entity autodiscovery data [`f7f8a5e`](https://github.com/congatudo/Congatudo/commit/f7f8a5e8f28a8f2b7cf8842a07ddc9eac5305136)
@@ -41,6 +41,7 @@
 
 ### Chores
 
+- more link fixes [`914e260`](https://github.com/congatudo/Congatudo/commit/914e26090c6f0ada616d7757ec1b4fb9e8d6fadd)
 - Merge pull request #124 from congatudo/dependabot/github_actions/docker/login-action-3.3.0 [`1a13f35`](https://github.com/congatudo/Congatudo/commit/1a13f354b41b72550377bce70f10475414de1465)
 - Merge pull request #125 from congatudo/dependabot/github_actions/peter-evans/create-issue-from-file-5.0.1 [`119628e`](https://github.com/congatudo/Congatudo/commit/119628e5ba54594ba17a2487a3ab433152ae66b5)
 - Merge pull request #126 from congatudo/dependabot/github_actions/docker/build-push-action-6.10.0 [`7f68bf6`](https://github.com/congatudo/Congatudo/commit/7f68bf6d43429bda0d7e6acb72f63adcc38ec167)
