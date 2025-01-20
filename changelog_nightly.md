@@ -1,4 +1,4 @@
-## Congatudo nightly (2025-01-19T03:04:33.534Z)
+## Congatudo nightly (2025-01-20T03:02:30.090Z)
 ### Breaking Changes
 
 - **mqtt**: Remove deprecated schema property from HA vacuum entity autodiscovery data [`f7f8a5e`](https://github.com/congatudo/Congatudo/commit/f7f8a5e8f28a8f2b7cf8842a07ddc9eac5305136)
