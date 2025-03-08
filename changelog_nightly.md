@@ -1,4 +1,4 @@
-## Congatudo nightly (2025-03-07T03:10:52.007Z)
+## Congatudo nightly (2025-03-08T02:46:31.795Z)
 ### Breaking Changes
 
 - **mqtt**: Remove deprecated schema property from HA vacuum entity autodiscovery data [`f7f8a5e`](https://github.com/congatudo/Congatudo/commit/f7f8a5e8f28a8f2b7cf8842a07ddc9eac5305136)
@@ -41,6 +41,11 @@
 
 ### Chores
 
+- Merge pull request #130 from congatudo/dependabot/github_actions/docker/setup-buildx-action-3 [`2f8830a`](https://github.com/congatudo/Congatudo/commit/2f8830a2be66c3c715c14150913fb2eed4a4a379)
+- Merge pull request #144 from congatudo/dependabot/github_actions/docker/setup-qemu-action-3.6.0 [`cd3f25d`](https://github.com/congatudo/Congatudo/commit/cd3f25dfcf7ba65af933631b81bfd2dc14a46c64)
+- Merge pull request #136 from congatudo/dependabot/github_actions/lycheeverse/lychee-action-2.3.0 [`d71b35c`](https://github.com/congatudo/Congatudo/commit/d71b35c0fc72a517246b2e2ef57f22a15d9e6068)
+- Merge pull request #142 from congatudo/dependabot/github_actions/docker/build-push-action-6.15.0 [`69e69c5`](https://github.com/congatudo/Congatudo/commit/69e69c55d38fb90844c13bc010e6e1b2c74ce3f4)
+- Merge pull request #143 from congatudo/dependabot/github_actions/actions/cache-4.2.2 [`eb9f708`](https://github.com/congatudo/Congatudo/commit/eb9f7084bfdf3e5708062ef8cc035d2604091452)
 - more link fixes [`914e260`](https://github.com/congatudo/Congatudo/commit/914e26090c6f0ada616d7757ec1b4fb9e8d6fadd)
 - Merge pull request #124 from congatudo/dependabot/github_actions/docker/login-action-3.3.0 [`1a13f35`](https://github.com/congatudo/Congatudo/commit/1a13f354b41b72550377bce70f10475414de1465)
 - Merge pull request #125 from congatudo/dependabot/github_actions/peter-evans/create-issue-from-file-5.0.1 [`119628e`](https://github.com/congatudo/Congatudo/commit/119628e5ba54594ba17a2487a3ab433152ae66b5)
