@@ -1,4 +1,4 @@
-## Congatudo nightly (2025-09-11T03:15:51.237Z)
+## Congatudo nightly (2026-02-14T04:25:00.094Z)
 ### Breaking Changes
 
 - **mqtt**: Remove deprecated schema property from HA vacuum entity autodiscovery data [`f7f8a5e`](https://github.com/congatudo/Congatudo/commit/f7f8a5e8f28a8f2b7cf8842a07ddc9eac5305136)
@@ -19,6 +19,11 @@
 
 ### Fixes
 
+- resolve frontend lint issues [`f638841`](https://github.com/congatudo/Congatudo/commit/f63884181ec2a0762376952196774314b8398cc9)
+- **events**: surface updated error messages [`3cdfdc0`](https://github.com/congatudo/Congatudo/commit/3cdfdc0cd3194215a004f46fefc2d5a93aeaf46a)
+- **cecotec**: surface dust bin errors [`aeae672`](https://github.com/congatudo/Congatudo/commit/aeae672c10cd485180bb8969fc041fbdf1aa00eb)
+- **frontend**: address typing and dock controls [`4ed7e67`](https://github.com/congatudo/Congatudo/commit/4ed7e67344ff3579a3e584c46cf01a6a67704763)
+- remove unused variable from command execution logic in Dock component [`16b7c09`](https://github.com/congatudo/Congatudo/commit/16b7c09bcddcf5e5c45fc8ff7f2a67df53f7dddf)
 - **mqtt**: Fix Home Assistant object_id generation [`ca95146`](https://github.com/congatudo/Congatudo/commit/ca95146ca51e7912f3d1f898a5a7b8210e51b1ad)
 - A config reset should not reset the robot config [`04af155`](https://github.com/congatudo/Congatudo/commit/04af155b2f6f0cec832f49cd2b461f204dca2ff0)
 - **ui**: Fix cutting line being invisible when using the light theme [`904a70d`](https://github.com/congatudo/Congatudo/commit/904a70d108f27ecfb99f8571d0ec3ca63baaf6c4)
