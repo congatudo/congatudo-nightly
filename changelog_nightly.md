@@ -1,4 +1,4 @@
-## Congatudo nightly (2026-02-17T04:34:32.690Z)
+## Congatudo nightly (2026-02-18T04:36:52.237Z)
 ### Breaking Changes
 
 - **mqtt**: Remove deprecated schema property from HA vacuum entity autodiscovery data [`f7f8a5e`](https://github.com/congatudo/Congatudo/commit/f7f8a5e8f28a8f2b7cf8842a07ddc9eac5305136)
@@ -19,6 +19,7 @@
 
 ### Fixes
 
+- Merge pull request #196 from Knuspel/main [`18faf6d`](https://github.com/congatudo/Congatudo/commit/18faf6d5f42a4f2be6e3c6c06b6bdc2a4ee58d8f)
 - resolve frontend lint issues [`f638841`](https://github.com/congatudo/Congatudo/commit/f63884181ec2a0762376952196774314b8398cc9)
 - **events**: surface updated error messages [`3cdfdc0`](https://github.com/congatudo/Congatudo/commit/3cdfdc0cd3194215a004f46fefc2d5a93aeaf46a)
 - **cecotec**: surface dust bin errors [`aeae672`](https://github.com/congatudo/Congatudo/commit/aeae672c10cd485180bb8969fc041fbdf1aa00eb)
@@ -46,6 +47,7 @@
 
 ### Chores
 
+- **cecotec**: simplify status state fallback for sonar [`9b89d45`](https://github.com/congatudo/Congatudo/commit/9b89d45ce43dd457326dd4f43a45f0fb957eca8b)
 - Merge pull request #130 from congatudo/dependabot/github_actions/docker/setup-buildx-action-3 [`2f8830a`](https://github.com/congatudo/Congatudo/commit/2f8830a2be66c3c715c14150913fb2eed4a4a379)
 - Merge pull request #144 from congatudo/dependabot/github_actions/docker/setup-qemu-action-3.6.0 [`cd3f25d`](https://github.com/congatudo/Congatudo/commit/cd3f25dfcf7ba65af933631b81bfd2dc14a46c64)
 - Merge pull request #136 from congatudo/dependabot/github_actions/lycheeverse/lychee-action-2.3.0 [`d71b35c`](https://github.com/congatudo/Congatudo/commit/d71b35c0fc72a517246b2e2ef57f22a15d9e6068)
